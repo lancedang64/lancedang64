@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lance
 - 👀 I’m interested in software developement with a focus on web applications
-- 🌱 I’m currently learning JavaScript, TypeScript, NodeJS, DynamoDB, AWS, CSS, HTML
+- 🌱 I’m currently learning <strong>JavaScript, CSS, HTML</strong> TypeScript, NodeJS, DynamoDB, AWS
 - 💞️ I’m a contributor for Mediplink at https://www.mediplink.com.au/
 - 📫 You can reach me at lancedang64@gmail.com or at https://www.linkedin.com/in/lance-dang-174266149/
 
