@@ -2,6 +2,7 @@
 - 👀 I’m interested in software developement with a focus on web applications
 - 🌱 I’m currently coding with <strong>JavaScript, React, CSS, HTML, TypeScript</strong>. Future goals: NodeJS, DynamoDB, AWS
 - 💞️ I’m a contributor for Mediplink at https://www.mediplink.com.au/
+- 💻 I'm working at Pointsbet
 - 📫 You can reach me at lancedang64@gmail.com or at https://www.linkedin.com/in/lance-dang-174266149/
 
 <!---
